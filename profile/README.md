@@ -3,6 +3,8 @@ Developing Innovative Artificial Intelligence & Software for Earth, Health, Fina
 ## Resources
 [Bifrost.Genetics](https://github.com/Bifrost-Technologies/Bifrost.Genetics) C# .NET Core 6.0 Library - Genetic code encoder capable encoding text into DNA or RNA.
 
-[Philosophers Stone](https://github.com/Bifrost-Technologies) C# .NET Core 6.0 Library - Machine Learning Cognitive Service capable of forecasting the crypto markets! Utilizing Microsoft Machine Learning & Intel MKL.
+[Philosophers Stone](https://github.com/Bifrost-Technologies/Philosophers-Stone) C# .NET Core 6.0 Library - Machine Learning Cognitive Service capable of forecasting the crypto markets! Utilizing Microsoft Machine Learning & Intel MKL.
+
+[Link Stream](https://github.com/Bifrost-Technologies/Link-Stream) C# .NET Core 6.0 Library - Middleware designed to be integrated into applications that use Solana's solnet C# client. Utilizing TCP server & client protocols to send transaction messages from dapps to wallet based applications. 
 ## Products
 [Tranquility](https://github.com/Bifrost-Technologies/Tranquility) C# .NET UWP App - Maximum Security Wallet for the Solana blockchain.
