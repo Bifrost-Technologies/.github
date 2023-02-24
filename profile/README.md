@@ -1,7 +1,7 @@
 ## Bifrost Inc
 Bifrost Inc is a US software development company that specializes in artificial intelligence. We design, develop, & deploy various types of software for hundreds of different industries, primarily Earth, Health, Finance, OPSEC, & Deep-Space.
 ## Libraries & Tools
-[Bifrost.Genetics](https://github.com/Bifrost-Technologies/Bifrost.Genetics) C# .NET Core 6.0 Library - A biomimetic genetic encoder capable of encoding English or Latin text in to genetic code.
+[Lifespark.Genetics](https://github.com/Bifrost-Technologies/Bifrost.Genetics) C# .NET Core 6.0 Library - A biomimetic genetic encoder capable of encoding English or Latin text in to genetic code.
 
 [Philosophers Stone](https://github.com/Bifrost-Technologies/Philosophers-Stone) C# .NET Core 6.0 Library - Machine Learning Cognitive Service capable of forecasting the crypto markets! Utilizing Microsoft Machine Learning & Intel MKL.
 
