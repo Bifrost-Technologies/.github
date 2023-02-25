@@ -12,6 +12,8 @@ Bifrost Inc is a US software development company that specializes in artificial 
 
 [Solnet.Cypher](https://github.com/Bifrost-Technologies/Solnet.Cypher) Solnet.Cypher is the C# .NET integration library for the Cypher Protocol on Solana.
 
+[Solana UnrealEngine5 SDK](https://github.com/Bifrost-Technologies/Solana-UnrealEngine5-SDK) Hybrid C++ & C# Solana SDK for Unreal Engine 5. Stocked with a complex game template to bootstrap game development.
+
 ## Products
 [Tranquility](https://github.com/Bifrost-Technologies/Tranquility) C# .NET WINUI3 App - Maximum Security Wallet for the Solana blockchain.
 
