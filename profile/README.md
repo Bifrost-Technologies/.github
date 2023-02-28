@@ -10,8 +10,6 @@ Bifrost Inc is a US software development company that specializes in artificial 
 ## Solana Blockchain Projects
 [Solnet.Metaplex](https://github.com/bmresearch/Solnet.Metaplex) Solnet.Metaplex is the C# .NET integration library for the Metaplex Protocol on Solana.
 
-[Solnet.Cypher](https://github.com/Bifrost-Technologies/Solnet.Cypher) Solnet.Cypher is the C# .NET integration library for the Cypher Protocol on Solana.
-
 [Solana UnrealEngine5 SDK](https://github.com/Bifrost-Technologies/Solana-UnrealEngine5-SDK) Hybrid C++ & C# Solana SDK for Unreal Engine 5. Stocked with a complex game template to bootstrap game development.
 
 [Solana-Mobile UE5 Plugin](https://github.com/Bifrost-Technologies/SolanaMobile-UnrealEngine5-Plugin) Hybrid C++ & Java Unreal Engine 5 plugin for Solana Mobile's Wallet Adapter. 
