@@ -15,7 +15,7 @@ Bifrost Inc is a US software development company that specializes in artificial 
 [Solana-Mobile UE5 Plugin](https://github.com/Bifrost-Technologies/SolanaMobile-UnrealEngine5-Plugin) Hybrid C++ & Java Unreal Engine 5 plugin for Solana Mobile's Wallet Adapter.
 
 ## NASA JPL Projects
-[Bifrost-Centurio](https://github.com/Bifrost-Technologies/Bifrost-Centurio) Core C Real-Time Operating System & Space Flight Artificial Intelligence derived from Nasa's Core Flight System.
+[Bifrost-Centurio](https://github.com/Bifrost-Technologies/Bifrost-Centurio) Hybrid C & C++ Real-Time Operating System & Space Flight Artificial Intelligence derived from Nasa's Core Flight System.
 
 ## Products
 [Tranquility](https://github.com/Bifrost-Technologies/Tranquility) C# .NET WINUI3 App - Maximum Security Wallet for the Solana blockchain.
