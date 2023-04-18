@@ -5,7 +5,7 @@ Bifrost Inc is a US software development company that specializes in artificial 
 
 [Philosophers Stone](https://github.com/Bifrost-Technologies/Philosophers-Stone) C# .NET Core 6.0 Library - Machine Learning Cognitive Service capable of forecasting the crypto markets! Utilizing Microsoft Machine Learning & Intel MKL.
 
-[Holographic AI Core](https://github.com/Bifrost-Technologies/Holographic-AI-Core) Hybrid C++ & C# Holographic AI framework for Microsoft HoloLens2 using Metahumans,GPT-3, Azure Cognitive services, & more. Powered by Unreal Engine 5.
+[Holographic AI Core](https://github.com/Bifrost-Technologies/Holographic-AI-Core) Hybrid C++ & C# Holographic AI framework for Microsoft HoloLens2 using Metahumans, GPT-3, LipSync, Azure Cognitive services, & more. Powered by Unreal Engine 5.
 
 ## NASA & Deep Space Projects
 [Bifrost-Centurio](https://github.com/Bifrost-Technologies/Bifrost-Centurio) Hybrid C & C++ Real-Time Operating System & Space Flight Artificial Intelligence derived from Nasa's Core Flight System.
