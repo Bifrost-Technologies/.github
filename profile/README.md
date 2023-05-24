@@ -13,7 +13,7 @@ Bifrost Inc is a US software development company that specializes in artificial 
 ## Blockchain Products & Libraries
 [Solana UE5 SDK](https://github.com/Bifrost-Technologies/Solana-UnrealEngine5-SDK) C++ & C# Unreal Engine 5 SDK for the Solana blockchain. The kit includes game templates, REST API, Game server SDK, Plugins and more.
 
-[Tranquility](https://github.com/Bifrost-Technologies/Tranquility) C# .NET WINUI3 App -  Maximum Security Blockchain Wallet for Desktop
+[Tranquility](https://github.com/Bifrost-Technologies/Tranquility) C# .NET WINUI3 App -  Maximum Security Solana Wallet for PC, Mobile, Xbox, Holo-Lens, and IoT devices.
 
 [Link Stream](https://github.com/Bifrost-Technologies/Link-Stream) C# .NET Core 6.0 & .NET Standard 2.0 Library - Middleware designed to be integrated into applications that use Solana's solnet C# client. Utilizing TCP server & client protocols to send transaction messages from dapps to wallet based applications. 
 
