@@ -11,7 +11,7 @@ Bifrost Inc is a US software development company that specializes in artificial 
 [Bifrost-Centurio](https://github.com/Bifrost-Technologies/Bifrost-Centurio) Hybrid C & C++ Real-Time Operating System & Space Flight Artificial Intelligence derived from Nasa's Core Flight System.
 
 ## Blockchain Products & Libraries
-[Solana UE5 SDK](https://github.com/Bifrost-Technologies/Solana-UnrealEngine5-SDK) C++ & C# Unreal Engine 5 SDK for the Solana blockchain. The kit includes game templates, REST API, Game server SDK, Plugins and more.
+[Solana Unreal SDK](https://github.com/Bifrost-Technologies/Solana-Unreal-SDK) C++ & C# Unreal Engine 5 SDK for the Solana blockchain. The kit includes game templates, REST API, Game server SDK, Plugins and more.
 
 [Tranquility](https://github.com/Bifrost-Technologies/Tranquility) C# .NET WINUI3 App -  Maximum Security Solana Wallet for PC, Mobile, Xbox, Holo-Lens, and IoT devices.
 
