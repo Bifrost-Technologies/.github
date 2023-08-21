@@ -18,3 +18,12 @@ Bifrost Inc is a US software development company that specializes in artificial 
 [Link Stream](https://github.com/Bifrost-Technologies/Link-Stream) C# .NET Core 6.0 & .NET Standard 2.0 Library - Middleware designed to be integrated into applications that use Solana's solnet C# client. Utilizing TCP server & client protocols to send transaction messages from dapps to wallet based applications. 
 
 [Vivaion](https://www.microsoft.com/en-us/p/vivaion-launcher/9NMVQ5W9LSJX?rtc=1&activetab=pivot:overviewtab) Free-To-Play Battle Royale & Open-World MMORPG! Players can explore, fight, craft, level up & collect rare items scattered across the universe of Vivaion. Vivaion is built using Unreal Engine 5 with cross-platform compatibility to scale to the skies! Available on the Microsoft Store. Vivaion's game economy is powered by blockchain.
+
+
+## Solana Hackathon Projects
+[Solana Unreal SDK](https://github.com/Bifrost-Technologies/Solana-Unreal-SDK) - [Solana Grizzlython]
+
+[Frontiers FoC GameServer SmartContract](https://github.com/kgilliam125/frontier-program) - [Solana OPOS hackathon] - A monolithic rust program which serves as a fully on-chain game server for the game; Frontiers.
+
+[Frontiers GameClient SDK](https://github.com/Bifrost-Technologies/Frontier-SDK) - [Solana OPOS hackathon] - C# Unreal SDK for Frontiers on the Solana blockchain. The kit consists of wrapper for the frontiers rust program and additional modules like the airlock wallet, transaction railgun/sequencer, data protection shield and Unreal Engine framework.
+
