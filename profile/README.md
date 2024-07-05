@@ -19,6 +19,12 @@ Bifrost Inc is a US software development company that specializes in artificial 
 
 [Vivaion](https://www.microsoft.com/en-us/p/vivaion-launcher/9NMVQ5W9LSJX?rtc=1&activetab=pivot:overviewtab) Free-To-Play Battle Royale & Open-World MMORPG! Players can explore, fight, craft, level up & collect rare items scattered across the universe of Vivaion. Vivaion is built using Unreal Engine 5 with cross-platform compatibility to scale to the skies! Available on the Microsoft Store. Vivaion's game economy is powered by blockchain.
 
+## C# Solana Library Contributions
+[Solnet](https://github.com/bmresearch/solnet) Solana's .NET SDK and integration library
+
+[Solnet.Metaplex](https://github.com/bmresearch/solnet.metaplex) Metaplex Protocol .NET SDK and integration library
+
+[Solnet.Moonshot](https://github.com/Bifrost-Technologies/Solnet.Moonshot) Dexscreeners Moonshot protocol's .NET SDK and integration library
 
 ## Solana Hackathon Projects
 [Solana Unreal SDK](https://github.com/Bifrost-Technologies/Solana-Unreal-SDK) - [Solana Grizzlython]
