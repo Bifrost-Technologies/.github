@@ -24,9 +24,13 @@ Bifrost Inc is a US software development company that specializes in artificial 
 
 [Solnet.Metaplex](https://github.com/bmresearch/solnet.metaplex) Metaplex Protocol .NET SDK and integration library
 
+[Solnet.Raydium](https://github.com/Bifrost-Technologies/Solnet.Raydium) C# SDK & Client for Raydium's V4 Amm program on Solana
+
 [Solnet.Moonshot](https://github.com/Bifrost-Technologies/Solnet.Moonshot) Dexscreener's Moonshot protocol .NET SDK and integration library
 
 [Solnet.JupiterPerps](https://github.com/Bifrost-Technologies/Solnet.JupiterPerps) C# SDK & Client for Jupiter's perpetuals program on Solana
+
+
 
 ## Solana Hackathon Projects
 [Solana Unreal SDK](https://github.com/Bifrost-Technologies/Solana-Unreal-SDK) - [Solana Grizzlython]
