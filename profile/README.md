@@ -30,7 +30,13 @@ Bifrost Inc is a US software development company that specializes in artificial 
 
 [Solnet.JupiterPerps](https://github.com/Bifrost-Technologies/Solnet.JupiterPerps) C# SDK & Client for Jupiter's perpetuals program on Solana
 
+[Solnet.Ore](https://github.com/Bifrost-Technologies/Solnet.Ore) Solnet.Ore is a C# sdk and client for the Ore V2 program on Solana
 
+## Rust Solana Library Contributions
+
+[Ore Pool Miner](https://github.com/Bifrost-Technologies/ore-pool-miner) Ore Pool Miner coded in Rust for the Ore v2 program on Solana! 
+
+[Frontiers Program](https://github.com/kgilliam125/frontier-program) - A monolithic rust program which serves as a fully on-chain game server for the game; Frontiers.
 
 ## Solana Hackathon Projects
 [Solana Unreal SDK](https://github.com/Bifrost-Technologies/Solana-Unreal-SDK) - [Solana Grizzlython]
