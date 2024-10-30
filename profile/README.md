@@ -1,5 +1,13 @@
 ## Bifrost Inc
 Bifrost Inc is a US software development company that specializes in artificial intelligence. We design, develop, & deploy various types of software for hundreds of different industries, primarily Earth, Health, Finance, OPSEC, & Deep-Space.
+
+## Quantum Libraries & Tools
+[Crystals](https://github.com/Bifrost-Technologies/Crystals) Rust Library & Solana Program(SmartContract) - Crystals is a post-quantum verification protocol for Solana leveraging the power of Dilithium 2 & 3 -- achieving more than 128 bits of security against all known classical and quantum attacks.
+
+[Solnet.Quantum](https://github.com/Bifrost-Technologies/Solnet.Quantum) Solnet.Quantum is a utility sdk designed to enhance the security of wallet generation by leveraging quantum randomness to generate unique seeds for Ed25519 & Dilithium keypairs.
+
+[Solnet.Crystals](https://github.com/Bifrost-Technologies/Solnet.Crystals) C# .NET 8.0 Library - Solnet.Crystals is a C# SDK & Client for the Crystals program on Solana.
+
 ## AI/ML Libraries & Tools
 [Lifespark.Genetics](https://github.com/Bifrost-Technologies/Lifespark.Genetics) C# .NET Core 6.0 Library - A biomimetic genetic encoder capable of encoding English or Latin text in to genetic code.
 
