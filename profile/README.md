@@ -1,6 +1,13 @@
 ## Bifrost Inc
 Bifrost Inc is a US software development company that specializes in artificial intelligence. We develop various types of software for hundreds of different industries, primarily Earth, Health, Finance, OPSEC, & Deep-Space.
 
+## Large Language Models & Datasets
+[Mirage](https://huggingface.co/collections/Bifrost-AI/mirage-685160d014ce1cfff10bc6fa) Mirage family of small language, multi-modal and reasoning models trained through supervised fine-tuning (SFT).
+
+[Mirage Datasets](https://huggingface.co/collections/Bifrost-AI/mirage-datasets-685161508ede3cd0439770de) Mirage family datasets used for training.
+
+#### *** Browse our selection of LLM models & datasets on Huggingface! [Here](https://huggingface.co/Bifrost-AI) 🤗 ***
+
 ## Quantum Libraries & Tools
 [Crystals](https://github.com/Bifrost-Technologies/Crystals) Rust Library & Solana Program(SmartContract) - Crystals is a post-quantum verification protocol for Solana leveraging the power of Dilithium 2 & 3 -- achieving more than 128 bits of security against all known classical and quantum attacks.
 
