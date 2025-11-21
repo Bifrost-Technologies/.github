@@ -8,7 +8,7 @@ Bifrost Inc is a US software development company that specializes in artificial 
 
 #### Download Mirage One from the Microsoft Store to use our models directly in our app. [View on Microsoft Store](https://apps.microsoft.com/detail/9n5llvdt1m85?hl=en-US&gl=US)
 
-#### *** Browse our selection of LLM's & datasets on Huggingface! [Here](https://huggingface.co/Bifrost-AI) 🤗 ***
+#### *** Browse our selection of LLMs & datasets on Huggingface! [Here](https://huggingface.co/Bifrost-AI) 🤗 ***
 
 ## Quantum Libraries & Tools
 [Crystals](https://github.com/Bifrost-Technologies/Crystals) Rust Library & Solana Program(SmartContract) - Crystals is a post-quantum verification protocol for Solana leveraging the power of Dilithium 2 & 3 -- achieving more than 128 bits of security against all known classical and quantum attacks.
@@ -20,6 +20,8 @@ Bifrost Inc is a US software development company that specializes in artificial 
 ## AI/ML Libraries & Tools
 [Bifrost AI SDK](https://github.com/Bifrost-Technologies/Bifrost-AI-SDK) C# .NET 8.0 Library - Biomimetic Multi-Agent Genetics Framework for BitNet/LLaMA that allows developers to deploy LLMs locally using complex genetic code. Developers can craft persona's with unique chain-of-thought, while having access to an array of different capabilities.
 
+[Prometheus](https://github.com/Bifrost-Technologies/Prometheus) C# & Typescript Platform - Hybrid AI assistant platform composed of an ASP.NET server and a React/Vite client. It combines cloud-hosted LLM connectors, Microsoft Semantic Kernel integration, and local LLM support (LLamaSharp) to provide conversational and prompt-driven AI capabilities specifically for developing Solana on-chain programs & more. The system is ready for local development and production deployment scenarios.
+
 [Solana BitNet Oracle](https://github.com/Bifrost-Technologies/solana-bitnet-oracle) Rust Library & Solana program(SmartContract) - An on-chain oracle service for Bifrost AI that allows users to interact with the LLMs using the Solana blockchain. Provides an on-chain interface & oracle engine to process the on-chain states.
 
 [Lifespark.Genetics](https://github.com/Bifrost-Technologies/Lifespark.Genetics) C# .NET Core 8.0 Library - A biomimetic genetics library & encoder that can encode data in to synthetic genetic code. It maps codons to Base64 characters, allowing efficient transformation between DNA sequences, Base64 encoding, and text/data.
@@ -30,6 +32,9 @@ Bifrost Inc is a US software development company that specializes in artificial 
 
 ## NASA & Deep Space Projects
 [Bifrost-Centurio](https://github.com/Bifrost-Technologies/Bifrost-Centurio) Hybrid C & C++ Real-Time Operating System & Space Flight Artificial Intelligence derived from Nasa's Core Flight System.
+
+[Bifrost Sentinel](https://apps.microsoft.com/detail/9MT1K4NMF18P?hl=en-us&gl=US&ocid=pdpshare) Real-time monitoring dashboard that brings global hazards and space data together in one place. Track earthquakes, wildfires, volcanoes, tsunamis, severe weather, floods, and even space weather with quick access to trusted sources. Open each “radar” in its own full-window view and build your own command center with multi-window monitoring.
+
 
 ## Blockchain Products & Libraries
 [Solana Unreal SDK](https://github.com/Bifrost-Technologies/Solana-Unreal-SDK) C++ & C# Unreal Engine 5 SDK for the Solana blockchain. The kit includes game templates, REST API, Game server SDK, Plugins and more.
